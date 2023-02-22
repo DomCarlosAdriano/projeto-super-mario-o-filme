@@ -28,8 +28,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
-
 - [Visite o projeto online](https://domcarlosadriano.github.io/projeto-super-mario-o-filme/)
 
 
